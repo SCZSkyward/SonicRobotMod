@@ -65,7 +65,8 @@
 				"shadow", 
 				"classicshadow", 
 				"classicshadowslide",
-				"unleashedjava"
+				"unleashedjava",
+				"soniccd"
 			]
     	},
     	"sfx-config-title": {
